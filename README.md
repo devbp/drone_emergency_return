@@ -5,8 +5,10 @@ The test is fully automated using pytest, supports CSV‑based parametrization, 
 
 Running the Tests
 1. Install dependencies
+   
     pip install -r requirements.txt
-2. Run all tests
+   
+3. Run all tests
 
 pytest -v
 
